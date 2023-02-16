@@ -2,8 +2,8 @@
 - project : amazon 
 	- ahmed : products : pc
 	- ali   : payment  : pc
-	- hassan:api       : pc
-	- mahmoud:dashboard: pc
+	- hassan:api       : pc        pc:server:cloud: github
+	- mahmoud:dashboard: pc 		gitlab , bitbuket
 	- senior : review  : pc
 	---------------------------------------------------------
 	- merge 
@@ -18,4 +18,5 @@
 	- track files				git add file_name .
 	- save backup				git commit 
 	- see any changes			git status
+	- see history               git log 
 	---------------------------------------------------------
