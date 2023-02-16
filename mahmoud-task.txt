@@ -5,12 +5,11 @@
 	- hassan:api       : pc
 	- mahmoud:dashboard: pc
 	- senior : review  : pc
-
+	---------------------------------------------------------
 	- merge 
 	- author 
 	- issue tracking 
 	- versions
-
 	---------------------------------------------------------
 	- version control system $ ----> linux --> linus --> git
 	- 6 commands 
@@ -19,3 +18,4 @@
 	- track files				git add file_name .
 	- save backup				git commit 
 	- see any changes			git status
+	---------------------------------------------------------
